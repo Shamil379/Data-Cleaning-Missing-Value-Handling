@@ -35,7 +35,7 @@ The goal was to identify, visualize, and handle missing values to improve data q
 
 ---
 
-## Deliverables
+## Contents
 
 - `Housing_Cleaned.csv` – Cleaned Housing dataset  
 - `Medical_Appointment_Cleaned.csv` – Cleaned Medical Appointment dataset  
